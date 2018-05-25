@@ -4,6 +4,8 @@ Projeto: Air Excellence
 
 Integrantes do grupo: Leonardo De Maria (TIA: 31544800)
 
-Pasta "docs": Contém primeira (descrição do hardware) e segunda (interfaces, protocolos, rede) entregas.
+
+
+Pasta "docs": Contém primeira (descrição do hardware) e segunda (interfaces, protocolos, módulos de comunicação) entregas.
 
 Pasta "src": Contém terceira entrega (código fonte) e biblioteca MQ-135.
